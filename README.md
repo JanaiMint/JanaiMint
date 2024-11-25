@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JanaiMint
-- 👀 I’m interested in continuing to learn how to code
-- 🌱 I’m currently learning Python
+- 👀 I hold a masters degree in Social Data Science
+- 🌱 I have a background in machine learning, network science and other disciplines. 
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me: through GitHub
 
