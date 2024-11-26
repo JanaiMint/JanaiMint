@@ -3,7 +3,7 @@
 - 🌱 I have a background in machine learning, network science and other disciplines. 
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me: through GitHub
-- 🔜 Thesis code to be added soon
+- 🔜 Thesis code to be added soon (Predictive modelling using deep learning techniques)
 
 <!---
 JanaiMint/JanaiMint is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
